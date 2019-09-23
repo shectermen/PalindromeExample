@@ -1,2 +1,0 @@
-# PalindromeExample
-Created with CodeSandbox
